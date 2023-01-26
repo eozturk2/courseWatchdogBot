@@ -2,7 +2,7 @@
 import discord
 from ChromeDriverHandler import ChromeDriverHandler
 
-BOT_TOKEN = "OTc4ODcwNTQ3MDc1MTgyNjQy.GJQXkS.Vh3iA02TqUZuVyzWDCf019My_voPTFmQkrrGNo"
+BOT_TOKEN = "haha nice try"
 BOT_GUILD = "Course Watchdog Mailer - Dev"
 
 client = discord.Client()
